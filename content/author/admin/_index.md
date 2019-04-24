@@ -41,7 +41,7 @@ user_groups = ["Researchers"]
 [[education.courses]]
   course = "B.Tech. in Computer Science & Engineering"
   institution = "Heritage Institute of Technology, Kolkata, India"
-  year = 2017
+  year = "2013 - 2017"
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
