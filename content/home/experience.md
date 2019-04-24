@@ -24,9 +24,8 @@ date_format = "Jan 2006"
   location = "Notre Dame, IN, USA"
   date_start = "2018-05-01"
   date_end = ""
-  description = "Research assistant at the Weninger Lab working on graph mining & network science""
-  """
-
+  description = "Research assistant at the Weninger Lab working on graph mining & network science"
+  
 [[experience]]
   title = "Graduate Teaching Assistant"
   company = "University of Notre Dame"
