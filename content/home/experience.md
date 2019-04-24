@@ -20,27 +20,27 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Graduate Research Assistant"
   company = "University of Notre Dame"
-  company_url = "www.nd.edu"
+  company_url = "https://www.nd.edu"
   location = "Notre Dame, IN, USA"
   date_start = "2018-05-01"
   date_end = ""
-  description = "Research assistant at the Weninger Lab working on graph mining & network science"
+  description = "Member of the Weninger Lab advised by Dr. Tim Weninger working on graph mining & network science"
   
 [[experience]]
   title = "Graduate Teaching Assistant"
   company = "University of Notre Dame"
-  company_url = "www.nd.edu"
+  company_url = "https://www.nd.edu"
   location = "Notre Dame, IN, USA"
   date_start = "2017-08-01"
   date_end = "2018-05-01"
-  description = "Teaching assistant for Theory of Computing CSE-30151"
+  description = "Teaching assistant for CSE-30151: Theory of Computing"
 
 [[experience]]
   title = "Undergraduate Research Assistant"
   company = "Heritage Institute of Technology"
-  company_url = "www.heritageit.edu"
+  company_url = "https://www.heritageit.edu"
   location = "Kolkata, WB, India"
   date_start = "2015-04-01"
   date_end = "2017-07-01"
-  description = "Undergraduate researcher in the Social Network Analysis Research Group"
+  description = "Undergraduate researcher in the Social Network Analysis Research Group advised by Dr. Partha Basuchowdhuri and Dr. Subhashis Majumder."
 +++
