@@ -33,10 +33,7 @@ date_format = "Jan 2006"
   location = "Notre Dame, IN, USA"
   date_start = "2017-08-01"
   date_end = "2018-05-01"
-  description = """Teaching assistant for Theory of Computing CSE-30151"""
-  Responsibilities included:
-  * Holding weekly office hours
-  * Grading homework and exams
+  description = "Teaching assistant for Theory of Computing CSE-30151"
 
 [[experience]]
   title = "Undergraduate Research Assistant"
@@ -45,5 +42,5 @@ date_format = "Jan 2006"
   location = "Kolkata, WB, India"
   date_start = "2015-04-01"
   date_end = "2017-07-01"
-  description = """Undergraduate researcher in the Social Network Analysis Research Group"""
+  description = "Undergraduate researcher in the Social Network Analysis Research Group"
 +++
