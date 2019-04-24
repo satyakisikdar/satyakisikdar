@@ -83,4 +83,4 @@ My research centers on the intersection of formal language theory and network sc
 
 Before this, I worked on community detection in complex networks at the Social Network Analysis Research Group at [Heritage Institute of Technology, Kolkata, India](http://heritageit.edu).
 
-In my spare time, I like to fiddle around Python and $$\LaTeX$$.
+In my spare time, I like to fiddle around Python and $\LaTeX$.
