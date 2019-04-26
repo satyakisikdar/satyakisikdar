@@ -1,7 +1,7 @@
 +++
 title = "Synchronous Hyperedge Replacement Graph Grammars"
 
-date = 2018
+date = 2018-05
 
 authors = ["Corey Pennycuff", "Satyaki Sikdar", "Catalina Vajiac", "David Chiang", "Tim Weninger"]
 

@@ -1,7 +1,7 @@
 +++
 title = "Fast detection of community structures using graph traversal in social networks"
 
-date = 2018
+date = 2018-06
 
 authors = ["Partha Basuchowdhuri", "Satyaki Sikdar", "Varsha Nagarajan", "Khusbu Mishra", "Surabhi Gupta", "Subhashis Majumder"]
 
