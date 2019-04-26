@@ -1,7 +1,7 @@
 +++
 title = "Detecting Community Structures in Social Networks by Graph Sparsification"
 
-date = 2016-03
+date = 2016-03-01
 
 authors = ["Partha Basuchowdhuri", "Satyaki Sikdar", "Sonu Shreshtha", "Subhashis Majumder"]
 
