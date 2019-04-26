@@ -8,6 +8,8 @@ weight = 70  # Order that this section will appear.
 
 title = "Talks and Posters"
 subtitle = ""
+exclude_upcoming = false
+
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
