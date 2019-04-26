@@ -11,7 +11,7 @@ abstract = "Arguably the most relevant task in the study of graphs is the identi
 
 keywords = "Vertex Replacement Grammar, Graph Model, Graph Generator"
 
-featured = true
+featured = false
 
 publication = "NetSci 2019"
 
