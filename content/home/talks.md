@@ -2,12 +2,11 @@
 # A Recent and Upcoming Talks section created with the Pages widget.
 # This section displays recent talks from `content/talk/`.
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+widget = "pages"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Talks"
+title = "Recent & Upcoming Talks"
 subtitle = ""
 
 [content]
@@ -15,7 +14,7 @@ subtitle = ""
   page_type = "talk"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 5
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -27,7 +26,7 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = "0"
+    publication_type = ""
     exclude_featured = false
     exclude_past = false
     exclude_future = false
