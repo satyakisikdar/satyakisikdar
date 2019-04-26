@@ -1,3 +1,8 @@
+---
+title: "Detecting Community Structures in Social Networks by Graph Sparsification"
+date: 2019-04-25T23:18:23-04:00
+draft: false
+---
 +++
 abstract = "An abstract..."
 authors = ["Basuchowdhuri, Partha", "Sikdar, Satyaki", "Shreshtha, Sonu", "Majumder, Subhashis"]
@@ -11,6 +16,6 @@ url_code = ""
 url_dataset = ""
 url_pdf = "http://doi.acm.org/10.1145/2888451.2888479"
 url_project = ""
-url_slides = ""
+url_slides = "spanner.pdf"
 url_video = ""
 +++
