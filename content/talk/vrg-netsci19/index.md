@@ -17,7 +17,7 @@ publication = "NetSci 2019"
 
 tags = ["Vertex Replacement Grammar", "Graph Model", "Graph Generator"]
 
-url_pdf = "files/vrg.pdf"
+url_slides = "files/talks/vrg.pdf"
 
 +++
 

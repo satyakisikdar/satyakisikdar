@@ -17,7 +17,7 @@ publication = "SIAM Workshop on Network Science 2019"
 
 tags = ["Vertex Replacement Grammar", "Graph Model", "Graph Generator"]
 
-url_slides = "files/vrg_poster.pdf"
+url_slides = "files/talks/vrg_poster.pdf"
 
 +++
 
