@@ -1,7 +1,7 @@
 +++
 title = "Modeling Graphs with Vertex Replacement Grammars"
 
-date = 2019-04-01
+date = 2019-05-27
 
 authors = ["Satyaki Sikdar", "Justus Hibshman", "Tim Weninger"]
 
