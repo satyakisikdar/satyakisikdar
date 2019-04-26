@@ -11,5 +11,6 @@ I think I'll talk about my research on graphs in the next blog, which should be 
 
 Also, I'm quite inept at managing websites, so apologies in advance if I do something stupid and this whole site disappears! 
 
-Until we meet again,
+Until next time,
+
 Satyaki
