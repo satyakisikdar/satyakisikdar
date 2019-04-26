@@ -8,12 +8,13 @@ weight = 70  # Order that this section will appear.
 
 title = "Talks and Posters"
 subtitle = ""
-exclude_upcoming = false
 
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "talk"
+  exclude_upcoming = false
+
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 0
