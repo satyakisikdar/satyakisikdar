@@ -14,8 +14,8 @@ publication = "*Proceedings of the 3rd IKDD Conference on Data Science, 2016*"
 
 tags = ["Community Detection", "Modularity Maximization", "Social networks", "Spanner Construction", "community detection", "social network analysis", "spanner", "sparsification"]
 
-url_pdf = "http://doi.acm.org/10.1145/2888451.2888479"
-slides_pdf = "files/spanner.pdf"
+#url_pdf = "http://doi.acm.org/10.1145/2888451.2888479"
+url_pdf = "static/files/spanner.pdf"
 doi = "10.1145/2888451.2888479"
 +++
 
