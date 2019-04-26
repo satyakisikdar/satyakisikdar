@@ -87,7 +87,7 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
 title = "Synchronous Hyperedge Replacement Graph Grammars"
 date = "2018-05-10"
 all_day=false
-''
+featured=true
 publication_types = ["0"]
 event = "Midwest Speech and Language Days 2018"
 event_url = "https://nlp.nd.edu/msld18/"
