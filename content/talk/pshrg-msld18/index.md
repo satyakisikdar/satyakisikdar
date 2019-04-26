@@ -17,8 +17,7 @@ publication = "Lecture Notes in Computer Science (including subseries Lecture No
 
 tags = ["Graph generation", "Hyperedge replacement", "Temporal graphs"]
 
-url_pdf = "files/ICGT_talk.pdf"
+url_pdf = "files/ICGT.pdf"
 
-doi = "10.1007/978-3-319-92991-0_2"
 +++
 
