@@ -1,7 +1,7 @@
 +++
 title = "Synchronous Hyperedge Replacement Graph Grammars"
 
-date = 2019-04
+date = 2019-04-01
 
 authors = ["Satyaki Sikdar", "Justus Hibshman", "Tim Weninger"]
 
