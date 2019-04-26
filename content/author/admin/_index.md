@@ -16,7 +16,7 @@ role = "Ph.D. Student"
 organizations = [ {name="Department of Computer Science & Engineering", url="cse.nd.edu"}, { name = "University of Notre Dame", url = "www.nd.edu" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include graph mining and network science."
+bio = "Graph theory enthusiast."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
