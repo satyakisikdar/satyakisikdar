@@ -1,6 +1,6 @@
 +++
-title: "First Post"
-date: 2019-04-26T01:23:55-04:00
+title = "First Post"
+date = 2019-04-26T01:23:55-04:00
 
 Hi all! Thanks for checking out my new blog.
 
