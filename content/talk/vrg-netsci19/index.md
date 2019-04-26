@@ -1,5 +1,5 @@
 +++
-title = "Synchronous Hyperedge Replacement Graph Grammars"
+title = "Modeling Graphs with Vertex Replacement Grammars"
 
 date = 2019-04-01
 
