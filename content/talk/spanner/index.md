@@ -16,6 +16,5 @@ tags = ["Community Detection", "Modularity Maximization", "Social networks", "Sp
 
 #url_pdf = "http://doi.acm.org/10.1145/2888451.2888479"
 url_pdf = "files/spanner.pdf"
-doi = "10.1145/2888451.2888479"
 +++
 
